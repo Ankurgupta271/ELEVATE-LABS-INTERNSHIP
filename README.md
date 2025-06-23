@@ -31,6 +31,6 @@ This is a simple Java command-line calculator that supports basic arithmetic ope
 3. Multiplication
 4. Division
 3
--The result is: 50.00
+The result is: 50.00
 Do you want to perform another calculation? (yes/no): no
 
