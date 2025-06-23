@@ -23,14 +23,14 @@ This is a simple Java command-line calculator that supports basic arithmetic ope
 
 #### Example
 
-Enter first number: 10
-Enter second number: 5
-Select operation:
+-Enter first number: 10
+-Enter second number: 5
+-Select operation:
 1. Addition
 2. Subtraction
 3. Multiplication
 4. Division
 3
-The result is: 50.00
+-The result is: 50.00
 Do you want to perform another calculation? (yes/no): no
 
